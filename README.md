@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salim</h1>
-<h3 align="center">A Junior Software Engineer</h3>
+<h3 align="center">Full Stack Engineer</h3>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamedsalim7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamedsalim7)
 
 
 ## 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Welly0007&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Welly0007&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welly0007&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-
 </div>
 
 ### ✍️ Random Dev Quote
