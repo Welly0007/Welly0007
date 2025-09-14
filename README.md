@@ -2,11 +2,7 @@
 <h3 align="center">Full Stack Engineer | ASP.NET Core & Angular</h3>
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamedsalim7)
-
-## 📊 GitHub Stats:
-<img src="https://nirzak-streak-stats.vercel.app/?user=Welly0007&theme=radical&hide_border=true" />
 </div>
 
 ### 👋 About Me  
