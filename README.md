@@ -42,12 +42,25 @@ I started my journey by building IoT projects that won national competitions, an
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Welly0007&theme=radical&no-frame=true&no-bg=false&margin-w=4)  
+## 🚀 Featured Projects  
 
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=Welly0007&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+### 🔹 [IDA – Integrated Department & User Administration](https://github.com/Welly0007/IDA)  
+A full-stack solution for managing departments, employees, and groups.  
+- Backend: **ASP.NET Core (Clean Architecture)**  
+- Frontend: **Angular modular UI**  
+- Scalable with Repository & Unit of Work  
+- Handles role-based management and CRUD features  
 
----  
-[![](https://visitcount.itsvg.in/api?id=Welly0007&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔹 [E-Commerce Platform](https://github.com/Welly0007/ECommerceApp)  
+Enterprise-grade **ASP.NET Core + Angular** application built at EIS.  
+- Secure APIs for payments and orders  
+- Clean modular frontend for customers & admins  
+- Designed for high-traffic scenarios  
+
+### 🔹 [E-Finance System (Java)](https://github.com/Welly0007/InvestWise)  
+A finance management system demonstrating my Java expertise.  
+- Built with layered architecture  
+- Database-backed, with transaction handling  
+- Available with docs and usage examples  
