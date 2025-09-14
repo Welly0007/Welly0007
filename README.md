@@ -1,51 +1,56 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salim</h1>
-<h3 align="center">Full Stack Engineer</h3>
+<h3 align="center">Full Stack Engineer | ASP.NET Core & Angular</h3>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamedsalim7)
 
-
 ## 📊 GitHub Stats:
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=Welly0007&theme=radical&hide_border=true" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+### 👋 About Me  
 
-### 👋 About Me
+🚀 I’m a software engineer passionate about building **scalable and maintainable applications** that make a real impact. My work combines strong backend foundations in **ASP.NET Core** with rich frontend experiences in **Angular**, delivering secure, reliable systems used by thousands of people daily.  
 
-🚀 I'm passionate about building scalable software that solves real-world problems — from national AI/IoT competitions to showcasing innovations at GITEX Dubai.
+🔭 Currently working on:  
+- Full-stack solutions at **EIS**, including government e-services and an e-commerce platform serving millions of users.  
+- Reviewing and authoring production-grade code across **C++, C#, and Java** at **Scale AI** to improve model quality and performance.  
 
-🔭 Currently working on:
-- AI coding systems at **Scale AI**, writing and reviewing production-grade code.
-- Full-stack and embedded projects that blend hardware and software.
+👯 Open to collaborate on:  
+- Projects involving **.NET Core, Angular, and enterprise system design**.  
+- SaaS applications or admin panels with a focus on clean architecture.  
 
-👯 Open to collaborate on:
-- Open-source projects in **C++**, **Python**, **AI**, or **embedded systems**.
-- Hackathons or tech events as a contributor or mentor.
+🌱 Currently learning:  
+- **PostgreSQL** for scalable SaaS applications.  
+- **Advanced system design** patterns for large-scale backend development.  
 
-🌱 Currently learning:
-- **Multithreading**, **System Design**, and **DevOps**.
-- Advanced Linux tools and contributing to open source.
+💬 Ask me about:  
+- Full-stack development with **ASP.NET Core + Angular**  
+- API design, scalability, and enterprise integrations  
+- Clean architecture and best practices for maintainability  
 
-💬 Ask me about:
-- C++ / Python development
-- Arduino/sensor-based systems
-- Agile workflows & mentoring junior devs
+⚡ Fun fact:  
+I started my journey by building IoT projects that won national competitions, and now I’m focused on designing software systems that power real-world enterprises.  
 
-⚡ Fun fact:
-I once built a leak-detection system called **The Invincible Plumber**, which earned me a spot at GITEX and sparked my interest in entrepreneurship!
+## 💻 Tech Stack  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Welly0007&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=Welly0007&theme=radical&no-frame=true&no-bg=false&margin-w=4)  
 
+### 🔝 Top Contributed Repo  
+![](https://github-contributor-stats.vercel.app/api?username=Welly0007&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Welly0007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+---  
 [![](https://visitcount.itsvg.in/api?id=Welly0007&icon=0&color=0)](https://visitcount.itsvg.in)
